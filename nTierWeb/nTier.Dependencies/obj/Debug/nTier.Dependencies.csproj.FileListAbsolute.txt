@@ -1,0 +1,4 @@
+C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Dependencies\bin\Debug\nTier.Dependencies.dll
+C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Dependencies\bin\Debug\nTier.Dependencies.pdb
+C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Dependencies\obj\Debug\nTier.Dependencies.dll
+C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Dependencies\obj\Debug\nTier.Dependencies.pdb

@@ -1,0 +1,12 @@
+C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Services\bin\Debug\nTier.Services.dll
+C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Services\bin\Debug\nTier.Services.pdb
+C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Services\obj\Debug\nTier.Services.csprojResolveAssemblyReference.cache
+C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Services\obj\Debug\nTier.Services.dll
+C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Services\obj\Debug\nTier.Services.pdb
+C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Services\bin\Debug\MyGeneration.dOOdads_2005.dll
+C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Services\bin\Debug\nTier.BO.dll
+C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Services\bin\Debug\nTier.Constants.dll
+C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Services\bin\Debug\nTier.Entity.dll
+C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Services\bin\Debug\nTier.BO.pdb
+C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Services\bin\Debug\nTier.Constants.pdb
+C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Services\bin\Debug\nTier.Entity.pdb

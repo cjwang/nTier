@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{012580F1-72A8-4477-B2CD-4BDF0FE21E3E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>nTier.Entity</RootNamespace>
+    <AssemblyName>nTier.Entity</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MyGeneration.dOOdads_2005">
+      <HintPath>..\nTier.Dependencies\bin\MyGeneration.dOOdads_2005.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\Categories.cs" />
+    <Compile Include="BLL\CustomerCustomerDemo.cs" />
+    <Compile Include="BLL\CustomerDemographics.cs" />
+    <Compile Include="BLL\Customers.cs" />
+    <Compile Include="BLL\Employees.cs" />
+    <Compile Include="BLL\EmployeeTerritories.cs" />
+    <Compile Include="BLL\Order Details.cs" />
+    <Compile Include="BLL\Orders.cs" />
+    <Compile Include="BLL\Products.cs" />
+    <Compile Include="BLL\Region.cs" />
+    <Compile Include="BLL\Shippers.cs" />
+    <Compile Include="BLL\Suppliers.cs" />
+    <Compile Include="BLL\Territories.cs" />
+    <Compile Include="DAL\_Categories.cs" />
+    <Compile Include="DAL\_CustomerCustomerDemo.cs" />
+    <Compile Include="DAL\_CustomerDemographics.cs" />
+    <Compile Include="DAL\_Customers.cs" />
+    <Compile Include="DAL\_Employees.cs" />
+    <Compile Include="DAL\_EmployeeTerritories.cs" />
+    <Compile Include="DAL\_Order Details.cs" />
+    <Compile Include="DAL\_Orders.cs" />
+    <Compile Include="DAL\_Products.cs" />
+    <Compile Include="DAL\_Region.cs" />
+    <Compile Include="DAL\_Shippers.cs" />
+    <Compile Include="DAL\_Suppliers.cs" />
+    <Compile Include="DAL\_Territories.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
