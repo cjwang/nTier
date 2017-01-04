@@ -3,3 +3,8 @@ C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Constants\bin\Debug\nTier.Constants.pdb
 C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Constants\obj\Debug\nTier.Constants.dll
 C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Constants\obj\Debug\nTier.Constants.pdb
 C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Constants\obj\Debug\nTier.Constants.csprojResolveAssemblyReference.cache
+C:\Projects\N-Tier\nTier\nTierWeb\nTier.Constants\bin\Debug\nTier.Constants.dll
+C:\Projects\N-Tier\nTier\nTierWeb\nTier.Constants\bin\Debug\nTier.Constants.pdb
+C:\Projects\N-Tier\nTier\nTierWeb\nTier.Constants\obj\Debug\nTier.Constants.csprojResolveAssemblyReference.cache
+C:\Projects\N-Tier\nTier\nTierWeb\nTier.Constants\obj\Debug\nTier.Constants.dll
+C:\Projects\N-Tier\nTier\nTierWeb\nTier.Constants\obj\Debug\nTier.Constants.pdb

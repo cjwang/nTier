@@ -3,3 +3,8 @@ C:\Projects\N-Tiers\nTier\nTierWeb\nTier.BO\bin\Debug\nTier.BO.pdb
 C:\Projects\N-Tiers\nTier\nTierWeb\nTier.BO\obj\Debug\nTier.BO.dll
 C:\Projects\N-Tiers\nTier\nTierWeb\nTier.BO\obj\Debug\nTier.BO.pdb
 C:\Projects\N-Tiers\nTier\nTierWeb\nTier.BO\obj\Debug\nTier.BO.csprojResolveAssemblyReference.cache
+C:\Projects\N-Tier\nTier\nTierWeb\nTier.BO\bin\Debug\nTier.BO.dll
+C:\Projects\N-Tier\nTier\nTierWeb\nTier.BO\bin\Debug\nTier.BO.pdb
+C:\Projects\N-Tier\nTier\nTierWeb\nTier.BO\obj\Debug\nTier.BO.csprojResolveAssemblyReference.cache
+C:\Projects\N-Tier\nTier\nTierWeb\nTier.BO\obj\Debug\nTier.BO.dll
+C:\Projects\N-Tier\nTier\nTierWeb\nTier.BO\obj\Debug\nTier.BO.pdb

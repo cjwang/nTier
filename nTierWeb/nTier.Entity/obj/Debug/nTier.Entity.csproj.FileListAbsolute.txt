@@ -4,3 +4,9 @@ C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Entity\bin\Debug\MyGeneration.dOOdads_2
 C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Entity\obj\Debug\nTier.Entity.dll
 C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Entity\obj\Debug\nTier.Entity.pdb
 C:\Projects\N-Tiers\nTier\nTierWeb\nTier.Entity\obj\Debug\nTier.Entity.csprojResolveAssemblyReference.cache
+C:\Projects\N-Tier\nTier\nTierWeb\nTier.Entity\bin\Debug\nTier.Entity.dll
+C:\Projects\N-Tier\nTier\nTierWeb\nTier.Entity\bin\Debug\nTier.Entity.pdb
+C:\Projects\N-Tier\nTier\nTierWeb\nTier.Entity\bin\Debug\MyGeneration.dOOdads_2005.dll
+C:\Projects\N-Tier\nTier\nTierWeb\nTier.Entity\obj\Debug\nTier.Entity.csprojResolveAssemblyReference.cache
+C:\Projects\N-Tier\nTier\nTierWeb\nTier.Entity\obj\Debug\nTier.Entity.dll
+C:\Projects\N-Tier\nTier\nTierWeb\nTier.Entity\obj\Debug\nTier.Entity.pdb

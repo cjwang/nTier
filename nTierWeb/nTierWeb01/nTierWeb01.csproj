@@ -71,6 +71,7 @@
   <ItemGroup>
     <Content Include="AddCustomer.aspx" />
     <Content Include="DeleteCustomer.aspx" />
+    <Content Include="DisplayShipper.aspx" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -111,6 +112,13 @@
     </Compile>
     <Compile Include="DeleteCustomer.aspx.designer.cs">
       <DependentUpon>DeleteCustomer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DisplayShipper.aspx.cs">
+      <DependentUpon>DisplayShipper.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DisplayShipper.aspx.designer.cs">
+      <DependentUpon>DisplayShipper.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
