@@ -10,6 +10,8 @@
     <form id="form1" runat="server">
     <div>
     
+        <asp:Button ID="btnLoadShipper" runat="server" Text="Load Shipper" OnClick="btnLoadShipper_Click" />
+    
         <asp:GridView ID="grShipper" runat="server">
         </asp:GridView>
     

@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 using BO = nTier.BO;
+using System.Configuration;
 
 namespace nTierWeb01
 {
@@ -17,6 +18,11 @@ namespace nTierWeb01
         }
 
         private void LoadShipper()
+        {
+            
+        }
+
+        protected void btnLoadShipper_Click(object sender, EventArgs e)
         {
             
         }

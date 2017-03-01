@@ -9,7 +9,7 @@ using Entity = nTier.Entity;
 
 namespace nTier.Services
 {
-    class Shipper
+    class ShipperSV
     {
     }
 }

@@ -20,6 +20,7 @@ namespace nTier.Services
             Entity.Customers cus = new Entity.Customers();
             List<BO.Customer> boCustomers = new List<BO.Customer>();
 
+            
             cus.ConnectionString = ConnString;
             //CJW:  Load the emtire customers table
             //      Do the following IF data return back
@@ -85,7 +86,7 @@ namespace nTier.Services
             Entity.Customers cus = new Entity.Customers();
             List<BO.Customer> boCustomers = new List<BO.Customer>();
             cus.ConnectionString = ConnString;
-
+            
             //CJW:  Instead of load all data, this time we show only the records
             //      with Company Name starts with "a"
             //      i.e., filter by CompanyName Like 'A%'

@@ -31,7 +31,7 @@
                     </asp:GridView>
                 </td>
                 <td>
-                    <asp:Button ID="btnAllCustomer" runat="server" Text="Load All Customers" OnClick="btnAllCustomer_Click" Width="185px" />
+                    <asp:Button ID="btnAllCustomer" runat="server" Text="Load All Customers" OnClick="btnAllCustomer_Click" Width="185px" style="height: 26px" />
 
                     <br />
                     <asp:Button ID="btnCompanyNameStartWithA" runat="server" Text="CompanyName starts with A" Width="188px" OnClick="btnCompanyNameStartWithA_Click" />
